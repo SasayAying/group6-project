@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    text-align: center;
+}
+.header h4,h3{
+ color: blue;
+ font-weight: bold;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+}
+.header img{
+    padding: 15px;
+}
+.enroll{
+    color: white;
+    background-color: blue;
+    float: left;
+    box-sizing: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h6{
+    font-size: 20px;
+}
+.ABOUT{
+    text-align: center;
+    
+}
+.CONTACTS{
+    text-align: right;
+}
