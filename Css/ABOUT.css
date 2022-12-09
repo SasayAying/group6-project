@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.content h1 {
+    text-align: center;
+    padding-top: 1%;
+}
+
+.content p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content1 h1 {
+    padding-left: 15%;
+}
+
+.content1 h3 {
+    padding-left: 15%;
+}
+
+.content1 h4 {
+    padding-left: 15%;
+    padding-right: 58%;
+    padding-top: 2%;
+}
+
+.content1 h5 {
+    padding-left: 15%;
+    padding-right: 58%;
+}
+
+.button {
+    border: none;
+    color: rgb(255, 252, 252);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    margin-left: 15%;
+} 
+  
+.content1 img {
+    float: right;    
+    margin: 0 20% 0 0;
+}
+
+.img {
+    margin-left: 15%;
+}
+
+.img-text {
+    position: absolute;
+    bottom: 30%;
+    left: 19%;
+    text-transform: uppercase;
+    padding-left: 70px;
+}
+
+.img h2 {
+    float: right;
+    padding-right: 17.5%;
+}
+
+.img h4 {
+    position: absolute;
+    bottom: 22%;
+    left: 42.5%;
+    padding-left: 70px;
+}
+
+.img h3 {
+    position: absolute;
+    bottom: 15%;
+    left: 42.5%;
+    padding-left: 70px;
+}
+
+.btn {
+    border: none;
+    color: rgb(255, 252, 252);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    margin-left: 47%;
+    position: absolute;
+    bottom: 7%;
+    padding-left: 34px;
+}
